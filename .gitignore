@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Model file (large binary)
+pose_landmarker_full.task
+
+# Workout data (personal)
+workout_history.csv
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend venv
+backend/venv/
+
+# OS
+.DS_Store
+.env

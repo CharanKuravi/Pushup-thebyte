@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+websockets
+opencv-python-headless
+mediapipe
+numpy
+hindsight-client
+cascadeflow
+groq
